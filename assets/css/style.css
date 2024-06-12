@@ -1,0 +1,13 @@
+.awal {
+    margin-top: 5rem;
+}
+
+.card-dashboard {
+    justify-content: space-between;
+}
+
+@media (max-width: 576px) {
+    .card-dashboard {
+        justify-content: center;
+    }
+}
